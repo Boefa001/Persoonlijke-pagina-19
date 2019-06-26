@@ -1,0 +1,139 @@
+body {
+  background-color: white;
+  width: 100vw;
+  height: 100vw;
+  cursor: pointer;
+  position: fixed;
+}
+
+/*periode 1*/
+.periode {
+font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+font-size: 5rem;
+position: fixed;
+z-index: 1;
+color: pink;
+text-shadow: 1px 1px black;
+margin-left: 0.6rem;
+margin-top: 26rem;
+}
+
+.vakken {
+  font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+  font-size: 1rem;
+  position: fixed;
+  margin-left: -0.5rem;
+  margin-top: 40rem;
+  text-decoration: none;
+}
+
+.typo {
+  width: 30%;
+  margin-top: 1.5rem;
+  margin-left: 27rem;
+}
+
+.beeld {
+  width: 30%;
+  margin-top: -39rem;
+  margin-bottom: 2.24rem;
+  margin-left: 52rem;
+  padding: 0;
+}
+
+.boek {
+  width: 62%;
+  margin-left: 27rem;
+  margin-top: -1.6rem;
+}
+
+.periode2 {
+font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+font-size: 5rem;
+position: fixed;
+z-index: 1;
+color: pink;
+text-shadow: 1px 1px black;
+margin-left: 0.6rem;
+margin-top: 23.4rem;
+}
+
+.vakken2 {
+  font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+  font-size: 1rem;
+  position: fixed;
+  margin-left: -0.5rem;
+  margin-top: 38rem;
+}
+
+.grid {
+  width: 30%;
+  margin-top: 2rem;
+  margin-left: 27rem;
+}
+
+.interface {
+    width: 62%;
+    margin-left: 27rem;
+    margin-top: 1rem;
+}
+
+.propaganda {
+width: 30%;
+margin-top: -30rem;
+margin-bottom: 0.2rem;
+margin-left: 52.5rem;
+padding: 0;
+z-index: 1;
+}
+
+.periode3 {
+font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+font-size: 5rem;
+position: fixed;
+z-index: 1;
+color: pink;
+text-shadow: 1px 1px black;
+margin-left: 0.6rem;
+margin-top: 23.4rem;
+}
+
+.vakken3 {
+  font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+  font-size: 1rem;
+  position: fixed;
+  margin-left: -0.5rem;
+    margin-top: 38rem;
+}
+
+.webtypo {
+  width: 30%;
+  margin-top: 2rem;
+  margin-left: 25rem;
+}
+
+.webanimatie {
+  width: 30%;
+  margin-top: -30rem;
+  margin-bottom: 1.3rem;
+  margin-left: 53.9rem;
+  padding: 0;
+  z-index: 1;
+}
+
+.meester {
+      width: 66%;
+      margin-left: 25rem;
+      margin-top: -0.5rem;
+}
+
+.periode4 {
+font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+font-size: 5rem;
+position: fixed;
+z-index: 1;
+color: pink;
+text-shadow: 1px 1px black;
+margin-left: 0.6rem;
+margin-top: 26rem;
+}

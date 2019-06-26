@@ -1,0 +1,61 @@
+li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+nav {
+  display: flex;
+  margin-left: 42rem;
+  margin-top: 1rem;
+  color: pink;
+}
+
+a {
+  float: left;
+  margin-left: 2rem;
+  text-decoration: none;
+  color: black;
+}
+
+.london {
+  width: 40.5%;
+  margin-top: 19.8rem;
+  opacity: 0.8;
+  margin-left: 46.44rem;
+}
+
+.homebutton{
+  font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+  font-size: 1rem;
+  color: pink;
+  text-shadow: 1px 1px black;
+}
+
+.firstbutton{
+  font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+  font-size: 1rem;
+  color: pink;
+  text-shadow: 1px 1px black;
+}
+
+.secondbutton{
+  font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+  font-size: 1rem;
+  color: pink;
+  text-shadow: 1px 1px black;
+}
+
+
+.thirdbutton{
+  font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+  font-size: 1rem;
+  color: pink;
+  text-shadow: 1px 1px black;
+}
+
+.lond{
+  font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+  font-size: 1rem;
+  color: pink;
+  text-shadow: 1px 1px black;
+}
